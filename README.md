@@ -1,2 +1,2 @@
 # Swift3-WebService
-Demonstration of Web Service Requests in Swift for Swift 3
+Make sure you replace the API Key with your own!
